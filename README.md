@@ -17,6 +17,9 @@ Hiermit möchte ich ausdrücklich darauf hinweisen, dass ich das eigenständige 
 
 ## Sonstiges:
 
+Programm: Jupyter Notebook 
+<br>Sprache: Python 3.8.8</br>
+
 Link zum Moodle Raum:
 [Hier der Link zum BiVa2 Moodlekurs](https://moodle.hs-coburg.de/course/view.php?id=9982)
 
